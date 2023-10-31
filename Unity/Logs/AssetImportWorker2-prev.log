@@ -1,0 +1,680 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.22f1 (b6c551784ba3) revision 11978065'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'el' Physical Memory: 49067 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.22f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/PC/Desktop/My mods/CollectorCards/Unity
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+64403
+Successfully changed project path to: C:/Users/PC/Desktop/My mods/CollectorCards/Unity
+C:/Users/PC/Desktop/My mods/CollectorCards/Unity
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [37548] Host "[IP] 192.168.1.2 [Port] 0 [Flags] 2 [Guid] 3773474277 [EditorId] 3773474277 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-URB4F4A) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [37548] Host "[IP] 192.168.1.2 [Port] 0 [Flags] 2 [Guid] 3773474277 [EditorId] 3773474277 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-URB4F4A) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 90.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.22f1 (b6c551784ba3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/PC/Desktop/My mods/CollectorCards/Unity/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3080 (ID=0x2206)
+    Vendor:   NVIDIA
+    VRAM:     10067 MB
+    Driver:   31.0.15.3742
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56924
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.014329 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 92.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.715 seconds
+Domain Reload Profiling:
+	ReloadAssembly (716ms)
+		BeginReloadAssembly (103ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (480ms)
+			LoadAssemblies (100ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (108ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (291ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (93ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (140ms)
+				ProcessInitializeOnLoadMethodAttributes (47ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009492 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\PC\Desktop\My mods\CollectorCards\Unity\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\PC\Desktop\My mods\CollectorCards\Unity\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.089 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1089ms)
+		BeginReloadAssembly (117ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (851ms)
+			LoadAssemblies (94ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (257ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (421ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (109ms)
+				ProcessInitializeOnLoadAttributes (272ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3540 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (113.3 KB). Loaded Objects now: 4002.
+Memory consumption went from 122.8 MB to 122.7 MB.
+Total: 3.112200 ms (FindLiveObjects: 0.268300 ms CreateObjectMapping: 0.179900 ms MarkObjects: 2.572000 ms  DeleteObjects: 0.090600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 224391.641949 seconds.
+  path: Assets/Prefabs/GEAR_ccBananaCard.prefab
+  artifactKey: Guid(17b8525dea952c44eb7ee2ce4ac81dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccBananaCard.prefab using Guid(17b8525dea952c44eb7ee2ce4ac81dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7575ca01c0168e4aea2ca451a55a002') in 0.161847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Prefabs/GEAR_ccSmokingCard.prefab
+  artifactKey: Guid(7d1729d887a6503479a136e5449f9064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccSmokingCard.prefab using Guid(7d1729d887a6503479a136e5449f9064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9ac7f2bd1122f29b6b18a99e54eb9a') in 0.026595 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Prefabs/GEAR_ccDarkwalkerFoilCard.prefab
+  artifactKey: Guid(ed40fa2e4aebcdc42a9265acc5106eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccDarkwalkerFoilCard.prefab using Guid(ed40fa2e4aebcdc42a9265acc5106eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c598bb29c95f4053f487aad2553efcfd') in 0.014303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Prefabs/GEAR_ccRifleCard.prefab
+  artifactKey: Guid(f64f1e58fd1443249b23450da24f4c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccRifleCard.prefab using Guid(f64f1e58fd1443249b23450da24f4c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13e7792fbc7f2663125eba4fe7648827') in 0.007555 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Prefabs/GEAR_ccTLDevCard.prefab
+  artifactKey: Guid(e59261c230d690646bf8cbf924d4eb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccTLDevCard.prefab using Guid(e59261c230d690646bf8cbf924d4eb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c152dffa450d08ab19e36dec645fef4') in 0.019657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Prefabs/GEAR_ccConemanCard.prefab
+  artifactKey: Guid(9bb8d9853119d5d4cb6a01da7ae4bd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccConemanCard.prefab using Guid(9bb8d9853119d5d4cb6a01da7ae4bd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82d36515611e9090bd1546e0ce388086') in 0.018788 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 46.479265 seconds.
+  path: Assets/Models/Textures/BananaCard.png
+  artifactKey: Guid(f1461a35b98ac91459e41a27f14a42cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Textures/BananaCard.png using Guid(f1461a35b98ac91459e41a27f14a42cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e93e934e8a40800594cd8cb46e3a86ea') in 0.052092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Models/Textures/CardBack_FoilPNG.png
+  artifactKey: Guid(3b6d49cb9bfe37f47bda0a9a9253fa30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Textures/CardBack_FoilPNG.png using Guid(3b6d49cb9bfe37f47bda0a9a9253fa30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1138ac7c9e66ada1bc6768b550c6f1af') in 0.011841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Models/Textures/DarkwalkerCard_Foil.png
+  artifactKey: Guid(6e1ec06738f225e4c8db9b4a585ccc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Textures/DarkwalkerCard_Foil.png using Guid(6e1ec06738f225e4c8db9b4a585ccc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31548fae1374762860723e9986d380fe') in 0.008780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Models/Textures/DarkwalkerCard.png
+  artifactKey: Guid(50c2530e455548147846d6ebae007e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Textures/DarkwalkerCard.png using Guid(50c2530e455548147846d6ebae007e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a34041b6ef55032a1664609f55b6666') in 0.008843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Models/Textures/RifleCard.png
+  artifactKey: Guid(a784f4e4edcf34f43bd065432d6a6c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Textures/RifleCard.png using Guid(a784f4e4edcf34f43bd065432d6a6c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd21d9a08f16eebc9c24abe89159e463d') in 0.012025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.437699 seconds.
+  path: Assets/Models/Materials/Card1.mat
+  artifactKey: Guid(c237d26ac221dfa4f9c08d40b1dd1ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Materials/Card1.mat using Guid(c237d26ac221dfa4f9c08d40b1dd1ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee582d5a0310ec8f1a1e409548121e3b') in 0.038634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.421230 seconds.
+  path: Assets/Models/Materials/BananaCard.mat
+  artifactKey: Guid(3e0401cb8725b2640bf328de6c9531d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Materials/BananaCard.mat using Guid(3e0401cb8725b2640bf328de6c9531d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f47bdc2d303e551fba86c8ff3d4dfc8b') in 0.011837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.541079 seconds.
+  path: Assets/InventoryGridIcons/ico_BearCard.PNG
+  artifactKey: Guid(e936ee9d269ebbc4891b0ba1563bb174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_BearCard.PNG using Guid(e936ee9d269ebbc4891b0ba1563bb174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cf8355952c6010b085a4f510bfd2a8d') in 0.021697 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/InventoryGridIcons/ico_OldBearCard.PNG
+  artifactKey: Guid(2ad04ca6d7cf384428f577bc1683bf0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_OldBearCard.PNG using Guid(2ad04ca6d7cf384428f577bc1683bf0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b4aad35a9daebe679c54ef31567d35b') in 0.010394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/InventoryGridIcons/ico_DarkwalkerFoilCard.PNG
+  artifactKey: Guid(62baf5c58a139554c961ef1d82e0228a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_DarkwalkerFoilCard.PNG using Guid(62baf5c58a139554c961ef1d82e0228a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c77cfdd836406437ae59ffb8a901cc9') in 0.018112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/InventoryGridIcons/icoBananaFoilCard.PNG
+  artifactKey: Guid(760e9de2119a36a4d8e8c511aa460e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/icoBananaFoilCard.PNG using Guid(760e9de2119a36a4d8e8c511aa460e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '827b7b799ff019a2ac430bb7bb05800a') in 0.009604 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.167619 seconds.
+  path: Assets/Prefabs/GEAR_ccBananaCard.prefab
+  artifactKey: Guid(17b8525dea952c44eb7ee2ce4ac81dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccBananaCard.prefab using Guid(17b8525dea952c44eb7ee2ce4ac81dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dba1aa6087e27642124eb657d740d87c') in 0.006294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Prefabs/GEAR_ccOldBearCard.prefab
+  artifactKey: Guid(583499e972843a742b0577876b31bb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccOldBearCard.prefab using Guid(583499e972843a742b0577876b31bb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ace554b661054248100fd833b1d4a02b') in 0.012795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Prefabs/GEAR_TKGDarkwalkerCard.prefab
+  artifactKey: Guid(5c476d124676c6842a5508381cc09e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_TKGDarkwalkerCard.prefab using Guid(5c476d124676c6842a5508381cc09e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6afc3f32291c0c82b35d1e78674a8fb1') in 0.011317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Prefabs/GEAR_ccPumpkinSoupCard.prefab
+  artifactKey: Guid(e963386cfbf010b4ab72995af60a1c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccPumpkinSoupCard.prefab using Guid(e963386cfbf010b4ab72995af60a1c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3621655cb48d1c2df98c8e2d00b24ecd') in 0.015095 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Prefabs/GEAR_ccConemanCard.prefab
+  artifactKey: Guid(9bb8d9853119d5d4cb6a01da7ae4bd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccConemanCard.prefab using Guid(9bb8d9853119d5d4cb6a01da7ae4bd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b320e7493544c39c0873f233b90bcd6') in 0.009351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 73.818593 seconds.
+  path: Assets/Models/Materials/BananaCard.mat
+  artifactKey: Guid(3e0401cb8725b2640bf328de6c9531d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Materials/BananaCard.mat using Guid(3e0401cb8725b2640bf328de6c9531d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6998ce488bfd28e9e7618c95264ba091') in 0.009349 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.879388 seconds.
+  path: Assets/Prefabs/GEAR_ccBananaCard.prefab
+  artifactKey: Guid(17b8525dea952c44eb7ee2ce4ac81dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccBananaCard.prefab using Guid(17b8525dea952c44eb7ee2ce4ac81dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac9c0c6c22b9be3c0b30388220ba1d51') in 0.008482 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.705774 seconds.
+  path: Assets/Models/Materials/BananaCard_Foil.mat
+  artifactKey: Guid(5a45554bac99b80438a4639384364165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Materials/BananaCard_Foil.mat using Guid(5a45554bac99b80438a4639384364165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8170440faf62bb544fb9d598cfd741b') in 0.007036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.605655 seconds.
+  path: Assets/Prefabs/GEAR_ccBananaFoilCard.prefab
+  artifactKey: Guid(c24d41d6b1c0419409e2365abc18efc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccBananaFoilCard.prefab using Guid(c24d41d6b1c0419409e2365abc18efc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a10175d6554955f127128aa04bb389') in 0.009812 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.883452 seconds.
+  path: Assets/Prefabs/GEAR_ccBananaCard.prefab
+  artifactKey: Guid(17b8525dea952c44eb7ee2ce4ac81dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccBananaCard.prefab using Guid(17b8525dea952c44eb7ee2ce4ac81dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '208023d80bae0b56a9c5dddc61eacef6') in 0.017002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.412362 seconds.
+  path: Assets/Prefabs/GEAR_ccBananaCard.prefab
+  artifactKey: Guid(17b8525dea952c44eb7ee2ce4ac81dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccBananaCard.prefab using Guid(17b8525dea952c44eb7ee2ce4ac81dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08dae742a02a738076700e750f0ff662') in 0.010840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.207126 seconds.
+  path: Assets/Prefabs/GEAR_ccBananaFoilCard.prefab
+  artifactKey: Guid(c24d41d6b1c0419409e2365abc18efc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccBananaFoilCard.prefab using Guid(c24d41d6b1c0419409e2365abc18efc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20c5639b045c6921ff5c4f75da315901') in 0.015447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.286560 seconds.
+  path: Assets/Prefabs/GEAR_ccBananaFoilCard.prefab
+  artifactKey: Guid(c24d41d6b1c0419409e2365abc18efc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccBananaFoilCard.prefab using Guid(c24d41d6b1c0419409e2365abc18efc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfda392fc9b5b5a0b3ba3b154bf00af1') in 0.031985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 87.262642 seconds.
+  path: Assets/Prefabs/GEAR_ccBearCard.prefab
+  artifactKey: Guid(fd5f6371f33effa4a9c734121140f0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccBearCard.prefab using Guid(fd5f6371f33effa4a9c734121140f0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa363dfeb8e74797fa19ff7c382adc9') in 0.010257 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.662019 seconds.
+  path: Assets/Prefabs/GEAR_ccCaptainCard.prefab
+  artifactKey: Guid(7efd001a682593c4882f487c1c4703d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccCaptainCard.prefab using Guid(7efd001a682593c4882f487c1c4703d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8191aa0968155a5b1c409adc131b53f4') in 0.011493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.420084 seconds.
+  path: Assets/Prefabs/GEAR_ccConemanCard.prefab
+  artifactKey: Guid(9bb8d9853119d5d4cb6a01da7ae4bd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccConemanCard.prefab using Guid(9bb8d9853119d5d4cb6a01da7ae4bd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '026125a143b8e98020e0cf6d11411388') in 0.013350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.202254 seconds.
+  path: Assets/Prefabs/GEAR_ccDarkwalkerCard.prefab
+  artifactKey: Guid(85e19a56304ee494ebb45f2fd133b1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccDarkwalkerCard.prefab using Guid(85e19a56304ee494ebb45f2fd133b1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d04f50c3188e0426a033636d07a520a') in 0.013103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.671067 seconds.
+  path: Assets/Prefabs/GEAR_ccDarkwalkerFoilCard.prefab
+  artifactKey: Guid(ed40fa2e4aebcdc42a9265acc5106eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccDarkwalkerFoilCard.prefab using Guid(ed40fa2e4aebcdc42a9265acc5106eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e93183fbd3f5cfb02153c14f5c9575') in 0.014738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.258324 seconds.
+  path: Assets/Prefabs/GEAR_ccOldBearCard.prefab
+  artifactKey: Guid(583499e972843a742b0577876b31bb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccOldBearCard.prefab using Guid(583499e972843a742b0577876b31bb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74c169929ecd77936553dd6a4e50d354') in 0.013045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.123362 seconds.
+  path: Assets/Prefabs/GEAR_ccPumpkinSoupCard.prefab
+  artifactKey: Guid(e963386cfbf010b4ab72995af60a1c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccPumpkinSoupCard.prefab using Guid(e963386cfbf010b4ab72995af60a1c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09cdb5eace8f065bd9c1ab2e9a144e40') in 0.014618 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.676781 seconds.
+  path: Assets/Prefabs/GEAR_ccRifleCard.prefab
+  artifactKey: Guid(f64f1e58fd1443249b23450da24f4c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccRifleCard.prefab using Guid(f64f1e58fd1443249b23450da24f4c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cdcdff21579cf434999961751cdfc3a') in 0.011513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.297462 seconds.
+  path: Assets/Prefabs/GEAR_ccSmokingCard.prefab
+  artifactKey: Guid(7d1729d887a6503479a136e5449f9064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccSmokingCard.prefab using Guid(7d1729d887a6503479a136e5449f9064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04875a9f166bfde2e0b582da09af4001') in 0.011404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.214927 seconds.
+  path: Assets/Models/Materials/BearCard.mat
+  artifactKey: Guid(c237d26ac221dfa4f9c08d40b1dd1ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Materials/BearCard.mat using Guid(c237d26ac221dfa4f9c08d40b1dd1ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f84c94bea394274863effe2d126686') in 0.008249 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006446 seconds.
+  path: Assets/Models/Materials/DarkwalkerCard_Foil.mat
+  artifactKey: Guid(7631030a3d42724418706cfd46f5263d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Materials/DarkwalkerCard_Foil.mat using Guid(7631030a3d42724418706cfd46f5263d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7197b6d736878ce993f8347fb39298ff') in 0.008748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/Materials/OldBearCard.mat
+  artifactKey: Guid(9f5826ecea447f848915565f53c2d242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Materials/OldBearCard.mat using Guid(9f5826ecea447f848915565f53c2d242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17a83632481ac161eb571fda8cf1e39a') in 0.008646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Models/Materials/PumpkinSoup.mat
+  artifactKey: Guid(2509116c685ee344da87ec569825fcc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Materials/PumpkinSoup.mat using Guid(2509116c685ee344da87ec569825fcc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd23944453653d1b797764f104d833798') in 0.008817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Models/Materials/ConemanCard.mat
+  artifactKey: Guid(f083077e58c2dc746a6a523ac4b8c9a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Materials/ConemanCard.mat using Guid(f083077e58c2dc746a6a523ac4b8c9a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922e397d4fb03f9485c1fad38531f956') in 0.009029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.635474 seconds.
+  path: Assets/Prefabs/GEAR_ccTLDevCard.prefab
+  artifactKey: Guid(e59261c230d690646bf8cbf924d4eb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccTLDevCard.prefab using Guid(e59261c230d690646bf8cbf924d4eb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c5b59994e65352aefc2286b11d2ce38') in 0.006422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.901476 seconds.
+  path: Assets/Prefabs/GEAR_ccBearCard.prefab
+  artifactKey: Guid(fd5f6371f33effa4a9c734121140f0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccBearCard.prefab using Guid(fd5f6371f33effa4a9c734121140f0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd681f0e56705111b45051b5327dbf70') in 0.009379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.289863 seconds.
+  path: Assets/Prefabs/GEAR_ccCaptainCard.prefab
+  artifactKey: Guid(7efd001a682593c4882f487c1c4703d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccCaptainCard.prefab using Guid(7efd001a682593c4882f487c1c4703d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f50204406041ecea9e05a781dc58fa7') in 0.007813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.189220 seconds.
+  path: Assets/Prefabs/GEAR_ccConemanCard.prefab
+  artifactKey: Guid(9bb8d9853119d5d4cb6a01da7ae4bd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccConemanCard.prefab using Guid(9bb8d9853119d5d4cb6a01da7ae4bd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af8f3ef0d8526a48170827d2169e00b5') in 0.007498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.098100 seconds.
+  path: Assets/Prefabs/GEAR_ccDarkwalkerCard.prefab
+  artifactKey: Guid(85e19a56304ee494ebb45f2fd133b1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccDarkwalkerCard.prefab using Guid(85e19a56304ee494ebb45f2fd133b1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5991caa7f377fc081ed053e5f87010bc') in 0.008041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.308989 seconds.
+  path: Assets/Prefabs/GEAR_ccDarkwalkerFoilCard.prefab
+  artifactKey: Guid(ed40fa2e4aebcdc42a9265acc5106eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccDarkwalkerFoilCard.prefab using Guid(ed40fa2e4aebcdc42a9265acc5106eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b74046a9fe022f23051861de6a0ec78') in 0.007778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.986561 seconds.
+  path: Assets/Prefabs/GEAR_ccOldBearCard.prefab
+  artifactKey: Guid(583499e972843a742b0577876b31bb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccOldBearCard.prefab using Guid(583499e972843a742b0577876b31bb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15f6d88efadcb5319f2c90639d27eab8') in 0.009629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.642909 seconds.
+  path: Assets/Prefabs/GEAR_ccPumpkinSoupCard.prefab
+  artifactKey: Guid(e963386cfbf010b4ab72995af60a1c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccPumpkinSoupCard.prefab using Guid(e963386cfbf010b4ab72995af60a1c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc4baa007dff8ac79e4c0dc085c8a603') in 0.008129 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.290138 seconds.
+  path: Assets/Prefabs/GEAR_ccRifleCard.prefab
+  artifactKey: Guid(f64f1e58fd1443249b23450da24f4c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccRifleCard.prefab using Guid(f64f1e58fd1443249b23450da24f4c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77223e3f22e1cb8f2a4d2251a205855c') in 0.007511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.120475 seconds.
+  path: Assets/Prefabs/GEAR_ccSmokingCard.prefab
+  artifactKey: Guid(7d1729d887a6503479a136e5449f9064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccSmokingCard.prefab using Guid(7d1729d887a6503479a136e5449f9064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cde6a250815bc17acc6c736057c5851') in 0.008067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.292536 seconds.
+  path: Assets/Prefabs/GEAR_ccTLDevCard.prefab
+  artifactKey: Guid(e59261c230d690646bf8cbf924d4eb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccTLDevCard.prefab using Guid(e59261c230d690646bf8cbf924d4eb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8154899221683a6760ec08abae7ff17f') in 0.013850 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.960336 seconds.
+  path: Assets/Prefabs/GEAR_ccBearCard.prefab
+  artifactKey: Guid(fd5f6371f33effa4a9c734121140f0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccBearCard.prefab using Guid(fd5f6371f33effa4a9c734121140f0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68861d65e280c4160c8499453246a21b') in 0.009994 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.739642 seconds.
+  path: Assets/Prefabs/GEAR_ccBearCard.prefab
+  artifactKey: Guid(fd5f6371f33effa4a9c734121140f0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccBearCard.prefab using Guid(fd5f6371f33effa4a9c734121140f0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27b9a3e93f188e919a8a27415436e7bc') in 0.011435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.676778 seconds.
+  path: Assets/Prefabs/GEAR_ccCaptainCard.prefab
+  artifactKey: Guid(7efd001a682593c4882f487c1c4703d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccCaptainCard.prefab using Guid(7efd001a682593c4882f487c1c4703d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6db833eee94a4189f763d2cd9c7852c3') in 0.011448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.807416 seconds.
+  path: Assets/Prefabs/GEAR_ccCaptainCard.prefab
+  artifactKey: Guid(7efd001a682593c4882f487c1c4703d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccCaptainCard.prefab using Guid(7efd001a682593c4882f487c1c4703d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77b9509d8e21908a0aaf24b863b1b688') in 0.038383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.796992 seconds.
+  path: Assets/Prefabs/GEAR_ccConemanCard.prefab
+  artifactKey: Guid(9bb8d9853119d5d4cb6a01da7ae4bd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccConemanCard.prefab using Guid(9bb8d9853119d5d4cb6a01da7ae4bd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b21ed8dfb07d40a04250b752eecba5') in 0.011272 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.934484 seconds.
+  path: Assets/Prefabs/GEAR_ccConemanCard.prefab
+  artifactKey: Guid(9bb8d9853119d5d4cb6a01da7ae4bd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccConemanCard.prefab using Guid(9bb8d9853119d5d4cb6a01da7ae4bd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dcaaf481f416775b86bd12dbcdebcce') in 0.012774 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.003017 seconds.
+  path: Assets/Prefabs/GEAR_ccDarkwalkerCard.prefab
+  artifactKey: Guid(85e19a56304ee494ebb45f2fd133b1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccDarkwalkerCard.prefab using Guid(85e19a56304ee494ebb45f2fd133b1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba7a06605521fc15069f9f6e0b9a9b15') in 0.012065 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.579972 seconds.
+  path: Assets/Prefabs/GEAR_ccDarkwalkerCard.prefab
+  artifactKey: Guid(85e19a56304ee494ebb45f2fd133b1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccDarkwalkerCard.prefab using Guid(85e19a56304ee494ebb45f2fd133b1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b4141e7cd8e24459fae025ce8a8ab9') in 0.038293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.599467 seconds.
+  path: Assets/Prefabs/GEAR_ccDarkwalkerFoilCard.prefab
+  artifactKey: Guid(ed40fa2e4aebcdc42a9265acc5106eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccDarkwalkerFoilCard.prefab using Guid(ed40fa2e4aebcdc42a9265acc5106eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12cc6590e2c05e4a0d6fdde103cdfdf4') in 0.013304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.720226 seconds.
+  path: Assets/Prefabs/GEAR_ccDarkwalkerFoilCard.prefab
+  artifactKey: Guid(ed40fa2e4aebcdc42a9265acc5106eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccDarkwalkerFoilCard.prefab using Guid(ed40fa2e4aebcdc42a9265acc5106eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '154f6e1175b230437f1158b06b325e3f') in 0.013061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.039873 seconds.
+  path: Assets/Prefabs/GEAR_ccOldBearCard.prefab
+  artifactKey: Guid(583499e972843a742b0577876b31bb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccOldBearCard.prefab using Guid(583499e972843a742b0577876b31bb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '776e5e602e81ba84cd0da53d0659b6d3') in 0.010138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.304321 seconds.
+  path: Assets/Prefabs/GEAR_ccOldBearCard.prefab
+  artifactKey: Guid(583499e972843a742b0577876b31bb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccOldBearCard.prefab using Guid(583499e972843a742b0577876b31bb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3375da7bccc149f53217133f9c5305f0') in 0.010486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.016825 seconds.
+  path: Assets/Prefabs/GEAR_ccPumpkinSoupCard.prefab
+  artifactKey: Guid(e963386cfbf010b4ab72995af60a1c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccPumpkinSoupCard.prefab using Guid(e963386cfbf010b4ab72995af60a1c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2428c073c1c3a7db876d2501ec6c7100') in 0.010779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.631601 seconds.
+  path: Assets/Prefabs/GEAR_ccPumpkinSoupCard.prefab
+  artifactKey: Guid(e963386cfbf010b4ab72995af60a1c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccPumpkinSoupCard.prefab using Guid(e963386cfbf010b4ab72995af60a1c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e6cc2ba65df11ba4f8e0ba0d548e3af') in 0.013217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.824994 seconds.
+  path: Assets/Prefabs/GEAR_ccRifleCard.prefab
+  artifactKey: Guid(f64f1e58fd1443249b23450da24f4c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccRifleCard.prefab using Guid(f64f1e58fd1443249b23450da24f4c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62da1a6ef39595b7da6e7425bf750aec') in 0.012362 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.116640 seconds.
+  path: Assets/Prefabs/GEAR_ccRifleCard.prefab
+  artifactKey: Guid(f64f1e58fd1443249b23450da24f4c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccRifleCard.prefab using Guid(f64f1e58fd1443249b23450da24f4c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96788586db41637adecb0559b1537780') in 0.014078 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.038840 seconds.
+  path: Assets/Prefabs/GEAR_ccSmokingCard.prefab
+  artifactKey: Guid(7d1729d887a6503479a136e5449f9064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccSmokingCard.prefab using Guid(7d1729d887a6503479a136e5449f9064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '779c579fb56c0d564fc214039ede1e75') in 0.009926 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.520068 seconds.
+  path: Assets/Prefabs/GEAR_ccSmokingCard.prefab
+  artifactKey: Guid(7d1729d887a6503479a136e5449f9064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccSmokingCard.prefab using Guid(7d1729d887a6503479a136e5449f9064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f037d980ae10cf02cab564028941e5e7') in 0.011395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.409853 seconds.
+  path: Assets/Prefabs/GEAR_ccTLDevCard.prefab
+  artifactKey: Guid(e59261c230d690646bf8cbf924d4eb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccTLDevCard.prefab using Guid(e59261c230d690646bf8cbf924d4eb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd39e887002099f485077ba67db782129') in 0.012779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.197307 seconds.
+  path: Assets/Prefabs/GEAR_ccTLDevCard.prefab
+  artifactKey: Guid(e59261c230d690646bf8cbf924d4eb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_ccTLDevCard.prefab using Guid(e59261c230d690646bf8cbf924d4eb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9329c82dae02300511a4535fb0aae82c') in 0.011542 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 44.928715 seconds.
+  path: Assets/InventoryGridIcons/icoBananaCard.PNG
+  artifactKey: Guid(ad64cc6e318549247b73ba6052bb9f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/icoBananaCard.PNG using Guid(ad64cc6e318549247b73ba6052bb9f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1439692f79167270457d89c703f900cb') in 0.009995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.035170 seconds.
+  path: Assets/InventoryGridIcons/ico_BearCard.PNG
+  artifactKey: Guid(e936ee9d269ebbc4891b0ba1563bb174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_BearCard.PNG using Guid(e936ee9d269ebbc4891b0ba1563bb174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea60539f094da4bf4afd6297672628f') in 0.011762 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002341 seconds.
+  path: Assets/InventoryGridIcons/ico_DarkwalkerFoilCard.PNG
+  artifactKey: Guid(62baf5c58a139554c961ef1d82e0228a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_DarkwalkerFoilCard.PNG using Guid(62baf5c58a139554c961ef1d82e0228a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e883107244f9c2ad3064c1010b79d98d') in 0.013479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/InventoryGridIcons/ico_TLDevCard.PNG
+  artifactKey: Guid(a8d87f20ffcfcd14ebcb5f1ee29e8c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_TLDevCard.PNG using Guid(a8d87f20ffcfcd14ebcb5f1ee29e8c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72ac73dc623cd24e9efbf625f966be30') in 0.010287 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/InventoryGridIcons/ico_OldBearCard.PNG
+  artifactKey: Guid(2ad04ca6d7cf384428f577bc1683bf0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_OldBearCard.PNG using Guid(2ad04ca6d7cf384428f577bc1683bf0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb65216b0d0086a5c95bb2c44342a9d3') in 0.013422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/InventoryGridIcons/ico_SmokingCard.PNG
+  artifactKey: Guid(88a08c7af9e55fd4aaad8a25143a51f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_SmokingCard.PNG using Guid(88a08c7af9e55fd4aaad8a25143a51f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf5745691ac786136c2cae0cfc29f59a') in 0.022134 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/InventoryGridIcons/ico_RifleCard.PNG
+  artifactKey: Guid(4af0d71c02e0d3647a4701837d2207d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_RifleCard.PNG using Guid(4af0d71c02e0d3647a4701837d2207d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8689f22edd2e1efbae4061181257da0') in 0.011140 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/InventoryGridIcons/ico_ConemanCard.PNG
+  artifactKey: Guid(5c20fbed09ee9d14f8f9e634b55c3400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_ConemanCard.PNG using Guid(5c20fbed09ee9d14f8f9e634b55c3400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec2fca46e57338022c8d451e51b55c6') in 0.010230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/InventoryGridIcons/ico_DarkwalkerCard.PNG
+  artifactKey: Guid(0b42783521581a0499c4265b2bdd7192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_DarkwalkerCard.PNG using Guid(0b42783521581a0499c4265b2bdd7192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6369c76756147bd86a4a53f8012e3784') in 0.013041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/InventoryGridIcons/ico_PumpkinSoupCard.PNG
+  artifactKey: Guid(acc548950120ec1499310cf909e7ab93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_PumpkinSoupCard.PNG using Guid(acc548950120ec1499310cf909e7ab93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1b9b41832952fae2ab15cb8b12483e9') in 0.011120 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

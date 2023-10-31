@@ -1,0 +1,74 @@
+{
+    "GAMEPLAY_ccBearCard":{
+        "English":"Bear Team Trading Card",
+	},
+	"GAMEPLAY_ccBearCardDescription":{
+        "English":"A local team's trading card.",
+    },
+	"GAMEPLAY_ccCaptainCard":{
+        "English":"Captains Key Card",
+	},
+	"GAMEPLAY_ccCaptainCardDescription":{
+        "English":"A replica keycard for a fishing boat.",
+    },
+	"GAMEPLAY_ccConemanCard":{
+        "English":"Coneman Playing Card",
+	},
+    "GAMEPLAY_ccConemanCardDescription":{
+        "English":"A playing card featuring a traffic themed superhero. Part of the 'Superheroes' collection.",
+    },
+	"GAMEPLAY_ccDarkwalkerCard":{
+        "English":"Darkwalker Playing Card",
+	},
+    "GAMEPLAY_ccDarkwalkerCardDescription":{
+        "English":"A playing card featuring a legendary monster. Part of the 'Creatures' collection.",
+    },
+	"GAMEPLAY_ccSmokingCard":{
+        "English":"Smoking Warning Card",
+	},
+    "GAMEPLAY_ccSmokingCardDescription":{
+        "English":"A warning card originating from a cigarette pack.",
+	},	
+    "GAMEPLAY_ccTLDevCard":{
+        "English":"TLDev Card",
+	},
+    "GAMEPLAY_ccTLDevCardDescription":{
+        "English":"A unique and autographed team card.",
+	},
+    "GAMEPLAY_ccRifleCard":{
+        "English":"Rifle Trading Card",
+	},
+    "GAMEPLAY_ccRifleCardDescription":{
+        "English":"A trading card featuring a trusty rifle. Part of the 'Armory' collection.",
+	},	
+    "GAMEPLAY_ccDarkwalkerFoilCard":{
+        "English":"Foil Darkwalker Playing Card",
+	},
+    "GAMEPLAY_ccDarkwalkerFoilCardDescription":{
+        "English":"A foil varient of a playing card featuring a legendary monster. Part of the 'Creatures' collection.",
+	},	
+    "GAMEPLAY_ccBananaCard":{
+        "English":"Banana Souvenir Card",
+	},
+    "GAMEPLAY_ccBananaCardDescription":{
+        "English":"A souvenir card originating from a special 'Banana Chip' bag.",
+	},	
+    "GAMEPLAY_ccBananaFoilCard":{
+        "English":"Foil Banana Souvenir Card",
+	},
+    "GAMEPLAY_ccBananaFoilCardDescription":{
+        "English":"A foil varient of a souvenir card originating from a special 'Banana Chip' bag.",
+	},	
+    "GAMEPLAY_ccOldBearCard":{
+        "English":"Old Bear Playing Card",
+	},
+    "GAMEPLAY_ccOldBearCardDescription":{
+        "English":"A playing card featuring a legendary bear. Part of the 'Creatures' collection.",
+	},	
+    "GAMEPLAY_ccPumpkinSoupCard":{
+        "English":"Pumpkin Soup Souvenir Card",
+	},
+    "GAMEPLAY_ccPumpkinSoupCardDescription":{
+        "English":"A souvenir card originating from a special 'Pumpkin Soup' can. Only available for a limited time.",
+	},	
+}

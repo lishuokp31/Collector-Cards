@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_ccOldBearCard",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_ccOldBearCardDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.1,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Firestarting",
+                                "PickUpAudio" : "Play_SndInvGenericTiny",
+                                "PutBackAudio" : "Play_SndInvGenericTiny",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.25,
+                                "InspectAngles" : [0, 0, 260],
+                                "InspectOffset" : [-0.01, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+	"ModBurnableBehaviour": {
+                                "BurningMinutes" : 30,
+                                "BurningMinutesBeforeAllowedToAdd" : 1,
+                                "SuccessModifier" : 35,
+                                "TempIncrease" : 2,
+                                "DurationOffset" : 0
+                            }
+}

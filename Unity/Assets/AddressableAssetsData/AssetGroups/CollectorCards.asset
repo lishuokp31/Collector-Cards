@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CollectorCards
+  m_EditorClassIdentifier: 
+  m_GroupName: CollectorCards
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ac05e2e643223f247941fa4b31d32635
+  m_SerializeEntries:
+  - m_GUID: e59261c230d690646bf8cbf924d4eb97
+    m_Address: GEAR_ccTLDevCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85e19a56304ee494ebb45f2fd133b1a8
+    m_Address: GEAR_ccDarkwalkerCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c24d41d6b1c0419409e2365abc18efc7
+    m_Address: GEAR_ccBananaFoilCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f64f1e58fd1443249b23450da24f4c4e
+    m_Address: GEAR_ccRifleCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e963386cfbf010b4ab72995af60a1c55
+    m_Address: GEAR_ccPumpkinSoupCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fd5f6371f33effa4a9c734121140f0b9
+    m_Address: GEAR_ccBearCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7efd001a682593c4882f487c1c4703d1
+    m_Address: GEAR_ccCaptainCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d1729d887a6503479a136e5449f9064
+    m_Address: GEAR_ccSmokingCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed40fa2e4aebcdc42a9265acc5106eed
+    m_Address: GEAR_ccDarkwalkerFoilCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9bb8d9853119d5d4cb6a01da7ae4bd0e
+    m_Address: GEAR_ccConemanCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17b8525dea952c44eb7ee2ce4ac81dce
+    m_Address: GEAR_ccBananaCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 583499e972843a742b0577876b31bb69
+    m_Address: GEAR_ccOldBearCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc7682b0b53f8ef4c8833108ae3b43ea
+    m_Address: ico_GearItem__ccTLDevCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09beb52333c837f4b9c3cdb34a6401bd
+    m_Address: ico_GearItem__ccConemanCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 27ab23fbc23163a4490f743d516d4942
+    m_Address: ico_GearItem__ccSmokingCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5dd91d13a86786144b5ac61295a7d0b8
+    m_Address: ico_GearItem__ccBearCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3c43d55f0a5f78a409e05872bd92a002
+    m_Address: ico_GearItem__ccCaptainCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 022daa8cabd99a343b9e69e55a442562
+    m_Address: ico_GearItem__ccBananaCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 144fc64b5d2a88441bb47c9cf28058f1
+    m_Address: ico_GearItem__ccPumpkinSoupCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18134a4bdaceacb4f959acc1592d553c
+    m_Address: ico_GearItem__ccBananaFoilCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67e540c8fcd964745b94e042855290f0
+    m_Address: ico_GearItem__ccOldBearCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e47b1814a92fea4409bfe988b6a02daa
+    m_Address: ico_GearItem__ccRifleCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0282c6a69b0c58341ab14ff1e4870d97
+    m_Address: ico_GearItem__ccDarkwalkerFoilCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e1576e961aa38784594e256f3c300511
+    m_Address: ico_GearItem__ccDarkwalkerCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f5cf218a01d0a25488ed278dea685811, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ace97b6e2572510489be9712bf56f77c, type: 2}
+    - {fileID: 11400000, guid: 6efa146dfd20fbe4e9fd2dc5a1f743e3, type: 2}

@@ -8,7 +8,6 @@ You can find up to 12 cards in some regions of the game. Currently, 10 are norma
 For their spawn locations, refer to this link: https://docs.google.com/spreadsheets/d/12HSBNqhs5jxpzkb7dSoIKIEcEhsx_uTQTDQfCk_Y2_8/edit?usp=sharing
 If you already visited in those areas, spawn them via the console with the model name mentioned in the spreadsheet.
 
-![CollectorCards](https://github.com/Thekillergreece/Collector-Cards/assets/95387832/060593ff-2f1e-4b78-b941-2ce2e627a5ee)
+![ccBananaChipPromoPNG](https://github.com/Thekillergreece/Collector-Cards/assets/95387832/77aa1e61-d168-4183-a8f2-3fb4947163ba)
 
 Download the .modcomponent and drop it into mods folder.
-

@@ -1,4 +1,4 @@
-# Collector-Cards
+# Collector Cards
 Find the collector cards hidden across the world of The Long Dark!
 
 ![CollectorCardsTitlePromo](https://github.com/Thekillergreece/Collector-Cards/assets/95387832/8e7e8e1a-4ad1-4dc9-8f5d-b5639fa2bbaf)

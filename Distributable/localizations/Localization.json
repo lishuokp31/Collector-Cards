@@ -1,74 +1,98 @@
 {
     "GAMEPLAY_ccBearCard":{
         "English":"Bear Team Trading Card",
+        "Simplified Chinese":"KP31灰熊卡牌"
 	},
 	"GAMEPLAY_ccBearCardDescription":{
         "English":"A local team's trading card.",
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 灰熊卡牌，尚不清楚有什么作用"
     },
 	"GAMEPLAY_ccCaptainCard":{
         "English":"Captains Key Card",
+        "Simplified Chinese":"KP31渔船卡牌"
 	},
 	"GAMEPLAY_ccCaptainCardDescription":{
         "English":"A replica keycard for a fishing boat.",
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 渔船卡牌，尚不清楚有什么作用"
     },
 	"GAMEPLAY_ccConemanCard":{
         "English":"Coneman Playing Card",
+        "Simplified Chinese":"KP31科尼人卡牌"
 	},
     "GAMEPLAY_ccConemanCardDescription":{
         "English":"A playing card featuring a traffic themed superhero. Part of the 'Superheroes' collection.",
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 科尼人卡牌，尚不清楚有什么作用"
     },
 	"GAMEPLAY_ccDarkwalkerCard":{
         "English":"Darkwalker Playing Card",
+        "Simplified Chinese":"KP31暗行者卡牌"
 	},
     "GAMEPLAY_ccDarkwalkerCardDescription":{
         "English":"A playing card featuring a legendary monster. Part of the 'Creatures' collection.",
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 暗行者卡牌，尚不清楚有什么作用"
     },
 	"GAMEPLAY_ccSmokingCard":{
         "English":"Smoking Warning Card",
+        "Simplified Chinese":"KP31死神卡牌"
 	},
     "GAMEPLAY_ccSmokingCardDescription":{
         "English":"A warning card originating from a cigarette pack.",
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 死神卡牌，尚不清楚有什么作用"
 	},	
     "GAMEPLAY_ccTLDevCard":{
         "English":"TLDev Card",
+        "Simplified Chinese":"KP31工具卡牌"
 	},
     "GAMEPLAY_ccTLDevCardDescription":{
         "English":"A unique and autographed team card.",
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 工具卡牌，尚不清楚有什么作用"
 	},
     "GAMEPLAY_ccRifleCard":{
         "English":"Rifle Trading Card",
+        "Simplified Chinese":"KP31步枪卡牌"
 	},
     "GAMEPLAY_ccRifleCardDescription":{
         "English":"A trading card featuring a trusty rifle. Part of the 'Armory' collection.",
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 步枪卡牌，尚不清楚有什么作用"
 	},	
     "GAMEPLAY_ccDarkwalkerFoilCard":{
         "English":"Foil Darkwalker Playing Card",
+        "Simplified Chinese":"KP31至臻暗行者卡牌"
 	},
     "GAMEPLAY_ccDarkwalkerFoilCardDescription":{
         "English":"A foil varient of a playing card featuring a legendary monster. Part of the 'Creatures' collection.",
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 至臻暗行者卡牌，尚不清楚有什么作用"
 	},	
     "GAMEPLAY_ccBananaCard":{
         "English":"Banana Souvenir Card",
+        "Simplified Chinese":"KP31香蕉卡牌"
 	},
     "GAMEPLAY_ccBananaCardDescription":{
         "English":"A souvenir card originating from a special 'Banana Chip' bag.",
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 香蕉卡牌，尚不清楚有什么作用"
 	},	
     "GAMEPLAY_ccBananaFoilCard":{
         "English":"Foil Banana Souvenir Card",
+        "Simplified Chinese":"KP31至臻香蕉卡牌"
 	},
     "GAMEPLAY_ccBananaFoilCardDescription":{
         "English":"A foil varient of a souvenir card originating from a special 'Banana Chip' bag.",
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 至臻香蕉卡牌，尚不清楚有什么作用"
 	},	
     "GAMEPLAY_ccOldBearCard":{
         "English":"Old Bear Playing Card",
+        "Simplified Chinese":"KP31黑熊卡牌"
 	},
     "GAMEPLAY_ccOldBearCardDescription":{
         "English":"A playing card featuring a legendary bear. Part of the 'Creatures' collection.",
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 黑熊卡牌，尚不清楚有什么作用"
 	},	
     "GAMEPLAY_ccPumpkinSoupCard":{
         "English":"Pumpkin Soup Souvenir Card",
+        "Simplified Chinese":"KP31万圣南瓜卡牌"
 	},
     "GAMEPLAY_ccPumpkinSoupCardDescription":{
         "English":"A souvenir card originating from a special 'Pumpkin Soup' can. Only available for a limited time.",
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 万圣南瓜卡牌，尚不清楚有什么作用"
 	},	
 }

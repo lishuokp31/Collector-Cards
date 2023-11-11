@@ -19,12 +19,5 @@
                                 "InspectScale" :  [1, 1, 1],
                                 "NormalModel" : "",
                                 "InspectModel" : ""
-                            },
-	"ModBurnableBehaviour": {
-                                "BurningMinutes" : 30,
-                                "BurningMinutesBeforeAllowedToAdd" : 1,
-                                "SuccessModifier" : 35,
-                                "TempIncrease" : 2,
-                                "DurationOffset" : 0
                             }
 }

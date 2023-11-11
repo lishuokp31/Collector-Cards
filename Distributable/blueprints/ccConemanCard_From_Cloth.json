@@ -1,0 +1,22 @@
+{
+    "Name": "ccConemanCard_From_Cloth",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_Cloth",
+            "Count": 12
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "",
+    "RequiresLitFire": false,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_ccConemanCard",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": "PLAY_HARVESTINGACORNS",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

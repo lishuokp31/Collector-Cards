@@ -13,7 +13,7 @@
 	},
 	"GAMEPLAY_ccCaptainCardDescription":{
         "English":"A replica keycard for a fishing boat.",
-        "Simplified Chinese":"KP31神秘科技卡牌系列 之 渔船卡牌，尚不清楚有什么作用"
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 渔船卡牌，似乎与煤炭有些联系。使用后获得12个煤炭"
     },
 	"GAMEPLAY_ccConemanCard":{
         "English":"Coneman Playing Card",
@@ -21,7 +21,7 @@
 	},
     "GAMEPLAY_ccConemanCardDescription":{
         "English":"A playing card featuring a traffic themed superhero. Part of the 'Superheroes' collection.",
-        "Simplified Chinese":"KP31神秘科技卡牌系列 之 科尼人卡牌，尚不清楚有什么作用"
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 科尼人卡牌，似乎与布料有些联系。使用后获得12个布料"
     },
 	"GAMEPLAY_ccDarkwalkerCard":{
         "English":"Darkwalker Playing Card",
@@ -45,7 +45,7 @@
 	},
     "GAMEPLAY_ccTLDevCardDescription":{
         "English":"A unique and autographed team card.",
-        "Simplified Chinese":"KP31神秘科技卡牌系列 之 工具卡牌，尚不清楚有什么作用"
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 工具卡牌，似乎与废金属有些联系。使用后获得12个废旧金属"
 	},
     "GAMEPLAY_ccRifleCard":{
         "English":"Rifle Trading Card",

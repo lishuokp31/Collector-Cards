@@ -1,0 +1,22 @@
+{
+    "Name": "ccCaptainCard_From_Coal",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_Coal",
+            "Count": 12
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "",
+    "RequiresLitFire": false,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_ccCaptainCard",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": "PLAY_HARVESTINGACORNS",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

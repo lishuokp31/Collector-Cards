@@ -20,11 +20,11 @@
                                 "NormalModel" : "",
                                 "InspectModel" : ""
                             },
-	"ModBurnableBehaviour": {
-                                "BurningMinutes" : 30,
-                                "BurningMinutesBeforeAllowedToAdd" : 1,
-                                "SuccessModifier" : 35,
-                                "TempIncrease" : 2,
-                                "DurationOffset" : 0
-                            }
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_Solitaire",
+                                "Minutes" : 1,
+                                "YieldCounts" : [12],
+                                "YieldNames" : ["GEAR_Cloth"],
+                                "RequiredToolNames" : []
+	}
 }

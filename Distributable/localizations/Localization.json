@@ -1,98 +1,98 @@
 {
     "GAMEPLAY_ccBearCard":{
         "English":"Bear Team Trading Card",
-        "Simplified Chinese":"KP31»ÒĞÜ¿¨ÅÆ"
+        "Simplified Chinese":"KP31ç°ç†Šå¡ç‰Œ"
 	},
 	"GAMEPLAY_ccBearCardDescription":{
         "English":"A local team's trading card.",
-        "Simplified Chinese":"KP31ÉñÃØ¿Æ¼¼¿¨ÅÆÏµÁĞ Ö® »ÒĞÜ¿¨ÅÆ£¬ÉĞ²»Çå³şÓĞÊ²Ã´×÷ÓÃ"
+        "Simplified Chinese":"KP31ç¥ç§˜ç§‘æŠ€å¡ç‰Œç³»åˆ— ä¹‹ ç°ç†Šå¡ç‰Œï¼Œå°šä¸æ¸…æ¥šæœ‰ä»€ä¹ˆä½œç”¨"
     },
 	"GAMEPLAY_ccCaptainCard":{
         "English":"Captains Key Card",
-        "Simplified Chinese":"KP31Óæ´¬¿¨ÅÆ"
+        "Simplified Chinese":"KP31æ¸”èˆ¹å¡ç‰Œ"
 	},
 	"GAMEPLAY_ccCaptainCardDescription":{
         "English":"A replica keycard for a fishing boat.",
-        "Simplified Chinese":"KP31ÉñÃØ¿Æ¼¼¿¨ÅÆÏµÁĞ Ö® Óæ´¬¿¨ÅÆ£¬ËÆºõÓëÃºÌ¿ÓĞĞ©ÁªÏµ¡£Ê¹ÓÃºó»ñµÃ12¸öÃºÌ¿"
+        "Simplified Chinese":"KP31ç¥ç§˜ç§‘æŠ€å¡ç‰Œç³»åˆ— ä¹‹ æ¸”èˆ¹å¡ç‰Œï¼Œä¼¼ä¹ä¸ç…¤ç‚­æœ‰äº›è”ç³»ã€‚ä½¿ç”¨åè·å¾—12ä¸ªç…¤ç‚­"
     },
 	"GAMEPLAY_ccConemanCard":{
         "English":"Coneman Playing Card",
-        "Simplified Chinese":"KP31¿ÆÄáÈË¿¨ÅÆ"
+        "Simplified Chinese":"KP31ç§‘å°¼äººå¡ç‰Œ"
 	},
     "GAMEPLAY_ccConemanCardDescription":{
         "English":"A playing card featuring a traffic themed superhero. Part of the 'Superheroes' collection.",
-        "Simplified Chinese":"KP31ÉñÃØ¿Æ¼¼¿¨ÅÆÏµÁĞ Ö® ¿ÆÄáÈË¿¨ÅÆ£¬ËÆºõÓë²¼ÁÏÓĞĞ©ÁªÏµ¡£Ê¹ÓÃºó»ñµÃ12¸ö²¼ÁÏ"
+        "Simplified Chinese":"KP31ç¥ç§˜ç§‘æŠ€å¡ç‰Œç³»åˆ— ä¹‹ ç§‘å°¼äººå¡ç‰Œï¼Œä¼¼ä¹ä¸å¸ƒæ–™æœ‰äº›è”ç³»ã€‚ä½¿ç”¨åè·å¾—12ä¸ªå¸ƒæ–™"
     },
 	"GAMEPLAY_ccDarkwalkerCard":{
         "English":"Darkwalker Playing Card",
-        "Simplified Chinese":"KP31°µĞĞÕß¿¨ÅÆ"
+        "Simplified Chinese":"KP31æš—è¡Œè€…å¡ç‰Œ"
 	},
     "GAMEPLAY_ccDarkwalkerCardDescription":{
         "English":"A playing card featuring a legendary monster. Part of the 'Creatures' collection.",
-        "Simplified Chinese":"KP31ÉñÃØ¿Æ¼¼¿¨ÅÆÏµÁĞ Ö® °µĞĞÕß¿¨ÅÆ£¬ÉĞ²»Çå³şÓĞÊ²Ã´×÷ÓÃ"
+        "Simplified Chinese":"KP31ç¥ç§˜ç§‘æŠ€å¡ç‰Œç³»åˆ— ä¹‹ æš—è¡Œè€…å¡ç‰Œï¼Œå°šä¸æ¸…æ¥šæœ‰ä»€ä¹ˆä½œç”¨"
     },
 	"GAMEPLAY_ccSmokingCard":{
         "English":"Smoking Warning Card",
-        "Simplified Chinese":"KP31ËÀÉñ¿¨ÅÆ"
+        "Simplified Chinese":"KP31æ­»ç¥å¡ç‰Œ"
 	},
     "GAMEPLAY_ccSmokingCardDescription":{
         "English":"A warning card originating from a cigarette pack.",
-        "Simplified Chinese":"KP31ÉñÃØ¿Æ¼¼¿¨ÅÆÏµÁĞ Ö® ËÀÉñ¿¨ÅÆ£¬ÉĞ²»Çå³şÓĞÊ²Ã´×÷ÓÃ"
+        "Simplified Chinese":"KP31ç¥ç§˜ç§‘æŠ€å¡ç‰Œç³»åˆ— ä¹‹ æ­»ç¥å¡ç‰Œï¼Œå°šä¸æ¸…æ¥šæœ‰ä»€ä¹ˆä½œç”¨"
 	},	
     "GAMEPLAY_ccTLDevCard":{
         "English":"TLDev Card",
-        "Simplified Chinese":"KP31¹¤¾ß¿¨ÅÆ"
+        "Simplified Chinese":"KP31å·¥å…·å¡ç‰Œ"
 	},
     "GAMEPLAY_ccTLDevCardDescription":{
         "English":"A unique and autographed team card.",
-        "Simplified Chinese":"KP31ÉñÃØ¿Æ¼¼¿¨ÅÆÏµÁĞ Ö® ¹¤¾ß¿¨ÅÆ£¬ËÆºõÓë·Ï½ğÊôÓĞĞ©ÁªÏµ¡£Ê¹ÓÃºó»ñµÃ12¸ö·Ï¾É½ğÊô"
+        "Simplified Chinese":"KP31ç¥ç§˜ç§‘æŠ€å¡ç‰Œç³»åˆ— ä¹‹ å·¥å…·å¡ç‰Œï¼Œä¼¼ä¹ä¸åºŸé‡‘å±æœ‰äº›è”ç³»ã€‚ä½¿ç”¨åè·å¾—12ä¸ªåºŸæ—§é‡‘å±"
 	},
     "GAMEPLAY_ccRifleCard":{
         "English":"Rifle Trading Card",
-        "Simplified Chinese":"KP31²½Ç¹¿¨ÅÆ"
+        "Simplified Chinese":"KP31æ­¥æªå¡ç‰Œ"
 	},
     "GAMEPLAY_ccRifleCardDescription":{
         "English":"A trading card featuring a trusty rifle. Part of the 'Armory' collection.",
-        "Simplified Chinese":"KP31ÉñÃØ¿Æ¼¼¿¨ÅÆÏµÁĞ Ö® ²½Ç¹¿¨ÅÆ£¬ÉĞ²»Çå³şÓĞÊ²Ã´×÷ÓÃ"
+        "Simplified Chinese":"KP31ç¥ç§˜ç§‘æŠ€å¡ç‰Œç³»åˆ— ä¹‹ æ­¥æªå¡ç‰Œï¼Œå°šä¸æ¸…æ¥šæœ‰ä»€ä¹ˆä½œç”¨"
 	},	
     "GAMEPLAY_ccDarkwalkerFoilCard":{
         "English":"Foil Darkwalker Playing Card",
-        "Simplified Chinese":"KP31ÖÁÕé°µĞĞÕß¿¨ÅÆ"
+        "Simplified Chinese":"KP31è‡³è‡»æš—è¡Œè€…å¡ç‰Œ"
 	},
     "GAMEPLAY_ccDarkwalkerFoilCardDescription":{
         "English":"A foil varient of a playing card featuring a legendary monster. Part of the 'Creatures' collection.",
-        "Simplified Chinese":"KP31ÉñÃØ¿Æ¼¼¿¨ÅÆÏµÁĞ Ö® ÖÁÕé°µĞĞÕß¿¨ÅÆ£¬ÉĞ²»Çå³şÓĞÊ²Ã´×÷ÓÃ"
+        "Simplified Chinese":"KP31ç¥ç§˜ç§‘æŠ€å¡ç‰Œç³»åˆ— ä¹‹ è‡³è‡»æš—è¡Œè€…å¡ç‰Œï¼Œå°šä¸æ¸…æ¥šæœ‰ä»€ä¹ˆä½œç”¨"
 	},	
     "GAMEPLAY_ccBananaCard":{
         "English":"Banana Souvenir Card",
-        "Simplified Chinese":"KP31Ïã½¶¿¨ÅÆ"
+        "Simplified Chinese":"KP31é¦™è•‰å¡ç‰Œ"
 	},
     "GAMEPLAY_ccBananaCardDescription":{
         "English":"A souvenir card originating from a special 'Banana Chip' bag.",
-        "Simplified Chinese":"KP31ÉñÃØ¿Æ¼¼¿¨ÅÆÏµÁĞ Ö® Ïã½¶¿¨ÅÆ£¬ÉĞ²»Çå³şÓĞÊ²Ã´×÷ÓÃ"
+        "Simplified Chinese":"KP31ç¥ç§˜ç§‘æŠ€å¡ç‰Œç³»åˆ— ä¹‹ é¦™è•‰å¡ç‰Œï¼Œå°šä¸æ¸…æ¥šæœ‰ä»€ä¹ˆä½œç”¨"
 	},	
     "GAMEPLAY_ccBananaFoilCard":{
         "English":"Foil Banana Souvenir Card",
-        "Simplified Chinese":"KP31ÖÁÕéÏã½¶¿¨ÅÆ"
+        "Simplified Chinese":"KP31è‡³è‡»é¦™è•‰å¡ç‰Œ"
 	},
     "GAMEPLAY_ccBananaFoilCardDescription":{
         "English":"A foil varient of a souvenir card originating from a special 'Banana Chip' bag.",
-        "Simplified Chinese":"KP31ÉñÃØ¿Æ¼¼¿¨ÅÆÏµÁĞ Ö® ÖÁÕéÏã½¶¿¨ÅÆ£¬ÉĞ²»Çå³şÓĞÊ²Ã´×÷ÓÃ"
+        "Simplified Chinese":"KP31ç¥ç§˜ç§‘æŠ€å¡ç‰Œç³»åˆ— ä¹‹ è‡³è‡»é¦™è•‰å¡ç‰Œï¼Œå°šä¸æ¸…æ¥šæœ‰ä»€ä¹ˆä½œç”¨"
 	},	
     "GAMEPLAY_ccOldBearCard":{
         "English":"Old Bear Playing Card",
-        "Simplified Chinese":"KP31ºÚĞÜ¿¨ÅÆ"
+        "Simplified Chinese":"KP31é»‘ç†Šå¡ç‰Œ"
 	},
     "GAMEPLAY_ccOldBearCardDescription":{
         "English":"A playing card featuring a legendary bear. Part of the 'Creatures' collection.",
-        "Simplified Chinese":"KP31ÉñÃØ¿Æ¼¼¿¨ÅÆÏµÁĞ Ö® ºÚĞÜ¿¨ÅÆ£¬ÉĞ²»Çå³şÓĞÊ²Ã´×÷ÓÃ"
+        "Simplified Chinese":"KP31ç¥ç§˜ç§‘æŠ€å¡ç‰Œç³»åˆ— ä¹‹ é»‘ç†Šå¡ç‰Œï¼Œå°šä¸æ¸…æ¥šæœ‰ä»€ä¹ˆä½œç”¨"
 	},	
     "GAMEPLAY_ccPumpkinSoupCard":{
         "English":"Pumpkin Soup Souvenir Card",
-        "Simplified Chinese":"KP31ÍòÊ¥ÄÏ¹Ï¿¨ÅÆ"
+        "Simplified Chinese":"KP31ä¸‡åœ£å—ç“œå¡ç‰Œ"
 	},
     "GAMEPLAY_ccPumpkinSoupCardDescription":{
         "English":"A souvenir card originating from a special 'Pumpkin Soup' can. Only available for a limited time.",
-        "Simplified Chinese":"KP31ÉñÃØ¿Æ¼¼¿¨ÅÆÏµÁĞ Ö® ÍòÊ¥ÄÏ¹Ï¿¨ÅÆ£¬ÉĞ²»Çå³şÓĞÊ²Ã´×÷ÓÃ"
+        "Simplified Chinese":"KP31ç¥ç§˜ç§‘æŠ€å¡ç‰Œç³»åˆ— ä¹‹ ä¸‡åœ£å—ç“œå¡ç‰Œï¼Œå°šä¸æ¸…æ¥šæœ‰ä»€ä¹ˆä½œç”¨"
 	},	
 }

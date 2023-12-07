@@ -1,9 +1,9 @@
 {
-    "Name": "ccConemanCard_From_Cloth",
+    "Name": "ccBananaCard_From_Burdock",
     "RequiredGear": [
         {
-            "Item": "GEAR_Cloth",
-            "Count": 12
+            "Item": "GEAR_Burdock",
+            "Count": 6
         }
     ],
     "KeroseneLitersRequired": 0,
@@ -15,7 +15,7 @@
     "RequiredCraftingLocation": "Anywhere",
     "RequiresLitFire": false,
     "RequiresLight": false,
-    "CraftedResult": "GEAR_ccConemanCard",
+    "CraftedResult": "GEAR_ccBananaCard",
     "CraftedResultCount": 1,
     "DurationMinutes": 10,
     "CraftingAudio": "PLAY_HARVESTINGACORNS",

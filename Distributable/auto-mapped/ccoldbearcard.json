@@ -19,5 +19,13 @@
                                 "InspectScale" :  [1, 1, 1],
                                 "NormalModel" : "",
                                 "InspectModel" : ""
-                            }
+                            },
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_Solitaire",
+                                "Minutes" : 1,
+                                "YieldCounts" : [6],
+                                "YieldNames" : ["GEAR_potato"],
+                                "RequiredToolNames" : []
+	}
+
 }

@@ -23,7 +23,7 @@
     "ModHarvestableBehaviour": {
                                 "Audio" : "Play_Solitaire",
                                 "Minutes" : 1,
-                                "YieldCounts" : [24],
+                                "YieldCounts" : [25],
                                 "YieldNames" : ["GEAR_Stone"],
                                 "RequiredToolNames" : []
 	}

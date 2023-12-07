@@ -1,9 +1,9 @@
 {
-    "Name": "ccConemanCard_From_Cloth",
+    "Name": "ccOldBearCard_From_Potato",
     "RequiredGear": [
         {
-            "Item": "GEAR_Cloth",
-            "Count": 12
+            "Item": "GEAR_potato",
+            "Count": 6
         }
     ],
     "KeroseneLitersRequired": 0,
@@ -15,7 +15,7 @@
     "RequiredCraftingLocation": "Anywhere",
     "RequiresLitFire": false,
     "RequiresLight": false,
-    "CraftedResult": "GEAR_ccConemanCard",
+    "CraftedResult": "GEAR_ccOldBearCard",
     "CraftedResultCount": 1,
     "DurationMinutes": 10,
     "CraftingAudio": "PLAY_HARVESTINGACORNS",

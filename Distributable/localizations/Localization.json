@@ -5,7 +5,7 @@
 	},
 	"GAMEPLAY_ccBearCardDescription":{
         "English":"A local team's trading card.",
-        "Simplified Chinese":"KP31神秘科技卡牌系列 之 灰熊卡牌，尚不清楚有什么作用"
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 灰熊卡牌，似乎与胡萝卜有些联系。使用后获得6个胡萝卜"
     },
 	"GAMEPLAY_ccCaptainCard":{
         "English":"Captains Key Card",
@@ -69,7 +69,7 @@
 	},
     "GAMEPLAY_ccBananaCardDescription":{
         "English":"A souvenir card originating from a special 'Banana Chip' bag.",
-        "Simplified Chinese":"KP31神秘科技卡牌系列 之 香蕉卡牌，尚不清楚有什么作用"
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 香蕉卡牌，似乎与牛蒡有些联系。使用后获得6个牛蒡"
 	},	
     "GAMEPLAY_ccBananaFoilCard":{
         "English":"Foil Banana Souvenir Card",
@@ -85,7 +85,7 @@
 	},
     "GAMEPLAY_ccOldBearCardDescription":{
         "English":"A playing card featuring a legendary bear. Part of the 'Creatures' collection.",
-        "Simplified Chinese":"KP31神秘科技卡牌系列 之 黑熊卡牌，尚不清楚有什么作用"
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 黑熊卡牌，似乎与土豆有些联系。使用后获得6个土豆"
 	},	
     "GAMEPLAY_ccPumpkinSoupCard":{
         "English":"Pumpkin Soup Souvenir Card",
@@ -93,6 +93,6 @@
 	},
     "GAMEPLAY_ccPumpkinSoupCardDescription":{
         "English":"A souvenir card originating from a special 'Pumpkin Soup' can. Only available for a limited time.",
-        "Simplified Chinese":"KP31神秘科技卡牌系列 之 万圣南瓜卡牌，似乎与石块有些联系。使用后获得24个石块"
+        "Simplified Chinese":"KP31神秘科技卡牌系列 之 万圣南瓜卡牌，似乎与石块有些联系。使用后获得25个石块"
 	},	
 }

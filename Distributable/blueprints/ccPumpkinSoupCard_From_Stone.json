@@ -3,7 +3,7 @@
     "RequiredGear": [
         {
             "Item": "GEAR_Stone",
-            "Count": 24
+            "Count": 25
         }
     ],
     "KeroseneLitersRequired": 0,
@@ -12,7 +12,7 @@
     "OptionalTools": [
         "GEAR_SimpleTools"
     ],
-    "RequiredCraftingLocation": "Workbench",
+    "RequiredCraftingLocation": "Anywhere",
     "RequiresLitFire": false,
     "RequiresLight": false,
     "CraftedResult": "GEAR_ccPumpkinSoupCard",

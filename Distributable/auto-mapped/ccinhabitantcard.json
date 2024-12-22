@@ -1,0 +1,35 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "KP31居民卡牌",
+    "DescriptionLocalizatonId": "KP31神秘科技卡牌系列 之 居民卡牌，尚不清楚有什么作用",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.01,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Firestarting",
+    "PickUpAudio": "Play_SndInvFeather",
+    "PutBackAudio": "Play_SndInvFeather",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "Play_NylonLightWornOut",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.25,
+    "InspectAngles": [
+      0.0,
+      -90.0,
+      90.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  }
+}

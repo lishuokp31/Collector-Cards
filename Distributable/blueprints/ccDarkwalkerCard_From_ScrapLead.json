@@ -1,0 +1,36 @@
+{
+    "Name": "ccDarkwalkerCard_From_Softwood",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_ReishiPrepared",
+            "Count": 4
+        },
+        {
+            "Item": "GEAR_RosehipsPrepared",
+            "Count": 2
+        },
+        {
+            "Item": "GEAR_BirchbarkPrepared",
+            "Count": 1
+        },
+        {
+            "Item": "GEAR_OldMansBeardDressing",
+            "Count": 1
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_HighQualityTools",
+    "OptionalTools": [
+        "GEAR_SimpleTools"
+    ],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_ccDarkwalkerCard",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": "PLAY_HARVESTINGACORNS",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

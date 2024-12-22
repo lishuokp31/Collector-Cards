@@ -1,0 +1,28 @@
+{
+    "Name": "ccOldBearCard_From_Wood",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_Hardwood",
+            "Count": 3
+        },
+        {
+            "Item": "GEAR_Softwood",
+            "Count": 3
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_HighQualityTools",
+    "OptionalTools": [
+        "GEAR_SimpleTools"
+    ],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_ccOldBearCard",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": "PLAY_HARVESTINGACORNS",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

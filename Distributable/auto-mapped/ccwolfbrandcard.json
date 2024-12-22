@@ -1,0 +1,46 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "KP31林狼卡牌",
+    "DescriptionLocalizatonId": "KP31神秘科技卡牌系列 之 林狼卡牌，似乎与加工桦树苗有些联系。使用后获得6个加工桦树苗",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.01,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Firestarting",
+    "PickUpAudio": "Play_SndInvFeather",
+    "PutBackAudio": "Play_SndInvFeather",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "Play_NylonLightWornOut",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.25,
+    "InspectAngles": [
+      0.0,
+      -90.0,
+      90.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModHarvestableBehaviour": {
+    "Audio": "Play_Solitaire",
+    "Minutes": 1,
+    "YieldCounts": [
+      6
+    ],
+    "YieldNames": [
+      "GEAR_BirchSaplingDried"
+    ],
+    "RequiredToolNames": []
+  }
+}

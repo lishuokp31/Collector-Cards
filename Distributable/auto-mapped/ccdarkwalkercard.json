@@ -1,23 +1,88 @@
 {
-    "ModGenericComponent": {
-                                "DisplayNameLocalizationId" : "GAMEPLAY_ccDarkwalkerCard",
-                                "DescriptionLocalizatonId" : "GAMEPLAY_ccDarkwalkerCardDescription",
-                                "InventoryActionLocalizationId" : "",
-                                "WeightKG": 0.1,
-                                "DaysToDecay" : 0,
-                                "MaxHP" : 100,
-                                "InitialCondition" : "Perfect",
-                                "InventoryCategory" : "Firestarting",
-                                "PickUpAudio" : "Play_SndInvGenericTiny",
-                                "PutBackAudio" : "Play_SndInvGenericTiny",
-                                "StowAudio" : "Play_InventoryStow",
-                                "WornOutAudio" : "",
-                                "InspectOnPickup" : true,
-                                "InspectDistance" : 0.25,
-                                "InspectAngles" : [0, 0, 260],
-                                "InspectOffset" : [-0.01, 0, 0],
-                                "InspectScale" :  [1, 1, 1],
-                                "NormalModel" : "",
-                                "InspectModel" : ""
-                            }
+  "ModFoodComponent": {
+    "DisplayNameLocalizationId": "KP31暗夜行者卡牌",
+    "DescriptionLocalizatonId": "KP31神秘科技卡牌系列 之 暗夜行者卡牌，似乎能恢复生命。使用后+100%生命",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.01,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "FirstAid",
+    "PickUpAudio": "Play_SndInvFeather",
+    "PutBackAudio": "Play_SndInvFeather",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "Play_NylonLightWornOut",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.25,
+    "InspectAngles": [
+      0.0,
+      -90.0,
+      90.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": "",
+
+    "BurntMinutes": 30,
+    "Cooking": false,
+    "CookingAudio": "",
+    "StartCookingAudio": "",
+    "CookingMinutes": 13,
+    "CookingResult": "",
+    "CookingUnitsRequired": 1,
+    "CookingWaterRequired": 0.25,
+    "Type": "Grub",
+
+    "DaysToDecayOutdoors": 0,
+    "DaysToDecayIndoors": 0,
+    "Calories": 1,
+    "EatingTime": 5,
+    "EatingAudio": "Play_EatingMRE",
+    "EatingPackagedAudio": "",
+    "ThirstEffect": -5,
+
+    "FoodPoisoning": 0,
+    "FoodPoisoningLowCondition": 10,
+    "ParasiteRiskIncrements": [],
+
+    "Natural": false,
+    "Raw": false,
+    "Drink": false,
+    "Meat": false,
+    "Fish": false,
+    "Canned": false,
+
+    "Opening": false,
+    "OpeningWithCanOpener": false,
+    "OpeningWithKnife": false,
+    "OpeningWithHatchet": false,
+    "OpeningWithSmashing": false,
+
+    "AffectCondition": true,
+    "ConditionRestBonus": 100,
+    "ConditionRestMinutes": 0,
+
+    "AffectRest": false,
+    "InstantRestChange": 99,
+    "RestFactor": 1,
+    "RestFactorMinutes": 0,
+
+    "AffectCold": false,
+    "InstantColdChange": 20,
+    "ColdFactor": 0.5,
+    "ColdFactorMinutes": 90,
+
+    "ContainsAlcohol": false,
+    "AlcoholPercentage": 0,
+    "AlcoholUptakeMinutes": 45
+  }
 }

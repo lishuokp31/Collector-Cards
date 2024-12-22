@@ -1,5 +1,7 @@
 {
-    "Name" : "Collector Cards",
-    "Version" : "1.0"
-    "Author" : "Kaiusername & Thekillergreece"
+    "Name": "Collector Cards",
+    "Author": "Kaiusername",
+    "Version": "2.0",
+    "Requires": [],
+    "RequiresDLC": true
 }

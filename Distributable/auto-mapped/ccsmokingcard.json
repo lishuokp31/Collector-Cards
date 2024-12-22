@@ -1,30 +1,46 @@
 {
-    "ModGenericComponent": {
-                                "DisplayNameLocalizationId" : "GAMEPLAY_ccSmokingCard",
-                                "DescriptionLocalizatonId" : "GAMEPLAY_ccSmokingCardDescription",
-                                "InventoryActionLocalizationId" : "",
-                                "WeightKG": 0.1,
-                                "DaysToDecay" : 0,
-                                "MaxHP" : 100,
-                                "InitialCondition" : "Perfect",
-                                "InventoryCategory" : "Firestarting",
-                                "PickUpAudio" : "Play_SndInvGenericTiny",
-                                "PutBackAudio" : "Play_SndInvGenericTiny",
-                                "StowAudio" : "Play_InventoryStow",
-                                "WornOutAudio" : "",
-                                "InspectOnPickup" : true,
-                                "InspectDistance" : 0.25,
-                                "InspectAngles" : [0, 0, 260],
-                                "InspectOffset" : [-0.01, 0, 0],
-                                "InspectScale" :  [1, 1, 1],
-                                "NormalModel" : "",
-                                "InspectModel" : ""
-                            },
-    "ModHarvestableBehaviour": {
-                                "Audio" : "Play_Solitaire",
-                                "Minutes" : 1,
-                                "YieldCounts" : [12],
-                                "YieldNames" : ["GEAR_GutDried"],
-                                "RequiredToolNames" : []
-	}
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "KP31死神卡牌",
+    "DescriptionLocalizatonId": "KP31神秘科技卡牌系列 之 死神卡牌，似乎与加工内脏有些联系。使用后获得12个加工内脏",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.01,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Firestarting",
+    "PickUpAudio": "Play_SndInvFeather",
+    "PutBackAudio": "Play_SndInvFeather",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "Play_NylonLightWornOut",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.25,
+    "InspectAngles": [
+      0.0,
+      -90.0,
+      90.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModHarvestableBehaviour": {
+    "Audio": "Play_Solitaire",
+    "Minutes": 1,
+    "YieldCounts": [
+      12
+    ],
+    "YieldNames": [
+      "GEAR_GutDried"
+    ],
+    "RequiredToolNames": []
+  }
 }

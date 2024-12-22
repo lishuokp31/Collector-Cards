@@ -1,0 +1,24 @@
+{
+    "Name": "ccDarkwalkerFoilCard_From_ccDarkwalkerCard",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_ccDarkwalkerCard",
+            "Count": 3
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_HighQualityTools",
+    "OptionalTools": [
+        "GEAR_SimpleTools"
+    ],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_ccDarkwalkerCard_Foil",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": "PLAY_HARVESTINGACORNS",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

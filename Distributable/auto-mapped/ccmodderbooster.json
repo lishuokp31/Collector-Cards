@@ -1,0 +1,52 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "KP31卡牌包",
+    "DescriptionLocalizatonId": "KP31神秘科技卡牌包，包含各种卡牌各一张（TODO）",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.03,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Firestarting",
+    "PickUpAudio": "Play_SndInvMRE",
+    "PutBackAudio": "Play_SndInvMRE",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "Play_NylonLightWornOut",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.25,
+    "InspectAngles": [
+      0.0,
+      -90.0,
+      90.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModHarvestableBehaviour": {
+    "Audio": "Play_SndInvMRE",
+    "Minutes": 2,
+    "YieldCounts": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "YieldNames": [
+      "GEAR_ccDeadmanCard",
+      "GEAR_ccTLDevCard",
+      "GEAR_ccTKGCard",
+      "GEAR_ccDeadmanCard_Holo"
+    ],
+    "RequiredToolNames": []
+  }
+}
